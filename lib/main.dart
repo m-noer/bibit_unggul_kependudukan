@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:kependudukan/ui/page/beranda_page.dart';
 import 'package:kependudukan/ui/page/navigation_page.dart';
 
 void main() {
