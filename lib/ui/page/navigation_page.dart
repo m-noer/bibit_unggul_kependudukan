@@ -15,19 +15,13 @@ class _NavigationPageState extends State<NavigationPage> {
   // Buat list widget _pages untuk halam beranda, penduduk, dan profil
 
   // static const List<Widget> _pages = <Widget>[
-  //   BerandaPage(),
-  //   PendudukPage(),
-  //   ProfilPage(),
+
   // ];
 
   // Buat fungsi untuk merubah nilai _selectedIndex dengan nilai index yang
   // sesuai dengan bottom navigation yang diklik
 
   // void _onItemTapped(int index) {
-  //   setState(() {
-  //     _selectedIndex = index;
-  //   });
-  // }
 
   @override
   Widget build(BuildContext context) {
