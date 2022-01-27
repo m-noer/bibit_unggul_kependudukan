@@ -1,8 +1,5 @@
 # Bibit Unggul Kependudukan
 
-## Home
+Task:
 
-<img src="assets/header_card.png"/>
-
-<img src="assets/profile_card.png"/>
-
+- [Task 28-01-2022](task/28-01-2022.md)
